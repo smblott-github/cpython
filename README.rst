@@ -262,4 +262,6 @@ This Python distribution contains *no* GNU General Public License (GPL) code,
 so it may be used in proprietary projects.  There are interfaces to some GNU
 code but these are entirely optional.
 
+blah blah blah
+
 All trademarks referenced herein are property of their respective holders.
